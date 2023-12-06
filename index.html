@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YH6K871QM3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YH6K871QM3');
+</script>
     <meta charset="utf-8">
     <title>KOPPEE - Coffee Shop HTML Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
